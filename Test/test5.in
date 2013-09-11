@@ -1,0 +1,37 @@
+game 50 60 test5A1.txt test5B1.txt
+game 50 60 test5A1.txt test5B1.txt
+game 50 60 test5A1.txt test5B1.txt
+game 50 60 test5A1.txt test5B1.txt
+game 50 60 test5A1.txt test5B1.txt
+game 50 60 stdin stdin
+50
+game 50 60 test5A1.txt stdin
+game 50 60 stdin test5B1.txt
+game 320000 300000 stdin test5B2.txt
+1
+10
+100
+1000
+10000
+100000
+game 320000 300000 test5A2.txt stdin
+2
+20
+200
+2000
+20000
+200000
+game 320000 300000 stdin stdin
+1
+2
+10
+20
+100
+200
+1000
+2000
+10000
+20000
+100000
+200000
+quit
