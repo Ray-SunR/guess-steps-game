@@ -5,6 +5,12 @@ Compilation
 -------------------
 make
 
+An executable file named guess-steps-game would be generated
+
+Run
+------------------
+./guess-steps-game
+
 
 Instruction:
 ------------------
