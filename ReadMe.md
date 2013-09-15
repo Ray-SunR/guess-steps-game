@@ -3,7 +3,7 @@
 Contributor: Renchen Sun (Ray)
 
 
-#C#ompilation
+#Compilation
 make     
 
 For cleaning those generated files:    
